@@ -13,6 +13,9 @@ The enterprise supply chain faced unmonitored margin erosion driven by systemic 
 - **Operational Risk Matrix (Looker Studio):** Built an advanced 2x2 diagnostic grid featuring vendor scatter evaluation graphs and carrier route procurement heatmaps. 
 - **Automated Alerts:** Implemented a two-tiered conditional formatting logic to prevent alert fatigue while isolating critical supply chain liabilities.
 
+<img width="1451" height="813" alt="image" src="https://github.com/user-attachments/assets/4fa1241b-b5ef-41e2-b427-e85c05786991" />
+<img width="1451" height="814" alt="image" src="https://github.com/user-attachments/assets/1c17d382-d284-420b-b08d-4b0ba7672bae" />
+
 ## 4. Quantifiable Impact
 - **Lead Time Reduction:** Isolated vendor anomalies to reduce maximum fulfillment windows by **38%** (from 27.3 days down to a 16-day benchmark).
 - **Quality Assurance:** Flagged a 4.26% supplier defect rate outlier to steer the network back toward the **2.0% target zone** (a **30% reduction** in defects).
